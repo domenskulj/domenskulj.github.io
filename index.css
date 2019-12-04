@@ -1,0 +1,59 @@
+#naslov {
+  text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 5px;
+  font-family: 'Trade Winds', cursive;
+  text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00, 3px 2px 5px rgba(13,108,206,0);
+}
+#opis {
+  text-align: center;
+  color: grey;
+  margin-bottom: 40px;
+  text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00, 3px 2px 5px rgba(13,108,206,0);
+  font-family: 'Trade Winds', cursive;
+}
+#nav {
+  width: 100%;
+  text-align: center;
+padding-left:20%;
+  padding-right: 20%;
+}
+
+#platno {
+
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 30px;
+  margin-top: 40px;
+
+}
+
+#vsebina {
+  border-style: none;
+  padding: 30px;
+  background-color: white;
+  border-radius: 5px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(209,152,121,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(209,152,121,1);
+box-shadow: 10px 10px 5px 0px rgba(209,152,121,1);
+
+
+
+}
+
+a {
+  background-color: #eb712f;
+  color: white;
+  padding: 10px;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  padding-bottom: 4px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+body {
+  background-color: #4d210b;
+  font-family: 'Charm', cursive;
+}
